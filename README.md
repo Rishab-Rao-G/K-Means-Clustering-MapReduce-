@@ -1,5 +1,7 @@
-The dataset used is Final_Trans.csv
+The dataset used is Final_Trans.csv.
+
 To run all the jobs, run the "Run.sh"
+
 (Before running it, the input and output paths must be modified)
 
 >> bash Run.sh
