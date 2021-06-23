@@ -1,10 +1,12 @@
 The dataset used is Final_Trans.csv.
 
-To run all the jobs, run the "Run.sh"
+To run all the jobs, run the "Run.sh file" on the Command Line or Ubuntu Terminal.
 
-(Before running it, the input and output paths must be modified)
+(Before running it, the input and output paths must be modified in the Run.sh file).
+Make sure Hadoop is installed on the system and all the services (DFS and YARN) are running.
 
 >> bash Run.sh
+This will run all the jobs and the output will be generated in the working directory. 
 
 The K-Means Clustering Algorithm is divided into 3 MapReduce Jobs.
 
